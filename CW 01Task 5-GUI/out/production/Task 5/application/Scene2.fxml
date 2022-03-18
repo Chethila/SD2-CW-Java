@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="342.0" prefWidth="573.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Scene2Controller">
+    <children>
+        <Text layoutX="226.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Patient Reciept" wrappingWidth="119.19998779296884">
+            <font>
+                <Font name="System Bold" size="15.0" />
+            </font>
+        </Text>
+        <Label layoutX="58.0" layoutY="82.0" prefHeight="17.0" prefWidth="74.0" text="First Name :" />
+        <Label layoutX="58.0" layoutY="115.0" prefHeight="17.0" prefWidth="74.0" text="Surname :" />
+        <Label layoutX="58.0" layoutY="150.0" prefHeight="17.0" prefWidth="74.0" text="Age :" />
+        <Label layoutX="58.0" layoutY="191.0" prefHeight="17.0" prefWidth="74.0" text="City :" />
+        <Label layoutX="58.0" layoutY="229.0" prefHeight="17.0" prefWidth="74.0" text="NIC :" />
+        <Label layoutX="58.0" layoutY="264.0" prefHeight="17.0" prefWidth="85.0" text="Vaccine Type :" />
+        <Label fx:id="first2" layoutX="198.0" layoutY="77.0" prefHeight="26.0" prefWidth="322.0" />
+        <Label fx:id="surname2" layoutX="198.0" layoutY="110.0" prefHeight="26.0" prefWidth="322.0" />
+        <Label fx:id="age2" layoutX="198.0" layoutY="145.0" prefHeight="26.0" prefWidth="322.0" />
+        <Label fx:id="city2" layoutX="198.0" layoutY="186.0" prefHeight="26.0" prefWidth="322.0" />
+        <Label fx:id="nic2" layoutX="198.0" layoutY="224.0" prefHeight="26.0" prefWidth="322.0" />
+        <Label fx:id="vaccine2" layoutX="198.0" layoutY="259.0" prefHeight="26.0" prefWidth="322.0" />
+    </children>
+</AnchorPane>

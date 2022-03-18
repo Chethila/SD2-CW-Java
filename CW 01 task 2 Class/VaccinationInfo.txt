@@ -1,0 +1,6 @@
+The Booth Number 0 is empty
+The Booth Number 1 is empty
+The Booth Number 2 is empty
+The Booth Number 3 is gagaga
+The Booth Number 4 is empty
+The Booth Number 5 is empty
